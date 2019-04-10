@@ -1,0 +1,44 @@
+{
+  "name": "bootstrap-with-gulp",
+  "version": "1.0.0",
+  "description": "clear bootsrap install with gulp config",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukassso/bootstrap-with-gulp.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "gulp",
+    "4.0"
+  ],
+  "author": "lk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukassso/bootstrap-with-gulp/issues"
+  },
+  "homepage": "https://github.com/lukassso/bootstrap-with-gulp#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.8.1",
+    "bootstrap": "4.3.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "del": "4.0.0",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "^1.0.1"
+  }
+}
